@@ -35,6 +35,7 @@ $mdc-radio-transition-duration: 120ms;
 .mdc-radio {
   @include mdc-ripple-base;
   @include mdc-ripple-theme(primary, .14);
+  @include mdc-ripple-radius;
 
   display: inline-block;
   position: relative;
