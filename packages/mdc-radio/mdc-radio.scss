@@ -33,8 +33,8 @@ $mdc-radio-transition-duration: 120ms;
 
 // postcss-bem-linter: define radio
 .mdc-radio {
-  @include mdc-ripple-base;
-  @include mdc-ripple-theme(primary, .14);
+  @include mdc-ripple-surface;
+  @include mdc-ripple-color(primary, .14);
   @include mdc-ripple-radius;
 
   display: inline-block;
