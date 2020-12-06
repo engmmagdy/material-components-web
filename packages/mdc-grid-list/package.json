@@ -13,8 +13,8 @@
     "grid list"
   ],
   "dependencies": {
-    "@material/base": "^0.2.6",
-    "@material/rtl": "^0.1.8",
+    "@material/base": "^0.41.0",
+    "@material/rtl": "^0.42.0",
     "@material/theme": "^0.4.0",
     "@material/typography": "^0.3.0"
   },
